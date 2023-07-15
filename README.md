@@ -21,3 +21,5 @@ The following questions are answered ?
 5. What are the minimum features expected in a mid-price product?
 6. Are fitness trackers (in the mid-price range) rated less? favourably than those in the higher price in the same? range?
 
+Data is web scrapped from a leading e-commerce website in NZ. (email me to get the details sherrycherry87@gmail.com)
+
