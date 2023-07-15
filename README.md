@@ -11,7 +11,7 @@ Keeping track of your wellness and fitness activity has never been easier with t
 
 How prepared is NZ market?
 
-The following questions are answered ? 
+The following questions are answered in the EDA.
 
 1. Demand for fitness trackers?
 2. Which brand has the highest number of products?
