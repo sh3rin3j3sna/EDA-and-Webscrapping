@@ -14,10 +14,10 @@ How prepared is NZ market?
 
 The following questions are answered ? 
 
-1.Demand for fitness trackers?
-2.Which brand has the highest number of products?
-3.Number of Players in the mid-priced market?
-4.Average Rating by Brand?
-5.What are the minimum features expected in a mid-price product?
-6.Are fitness trackers (in the mid-price range) rated less? favourably than those in the higher price in the same? range?
+1. Demand for fitness trackers?
+2. Which brand has the highest number of products?
+3. Number of Players in the mid-priced market?
+4. Average Rating by Brand?
+5. What are the minimum features expected in a mid-price product?
+6. Are fitness trackers (in the mid-price range) rated less? favourably than those in the higher price in the same? range?
 
