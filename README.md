@@ -8,7 +8,7 @@ https://www.fortunebusinessinsights.com/fitness-tracker-market-103358
 
 
 Keeping track of your wellness and fitness activity has never been easier with the aptly named fitness trackers. As their name explains, Fitness and activity trackers are electronic wearable devices that monitor health-related metrics such as walking or running, heart rate, blood oxygen levels, calorie consumption, and sleep quality.
-![image](https://github.com/sh3rin3j3sna/EDA-and-Webscrapping/assets/128777322/85f76b7d-b2d9-4756-a13f-f0c568beb78d)
+
 
 How prepared is NZ market?
 1.Demand for fitness trackers?
