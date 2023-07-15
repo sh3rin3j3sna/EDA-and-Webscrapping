@@ -22,3 +22,4 @@ The following questions are answered in the EDA.
 
 Data is web scrapped from a leading e-commerce website in NZ. (email me to get the details sherrycherry87@gmail.com)
 
+The webscrapped data is used for data cleaning,  feature engineering, and Exploratory analysis. The finding about the questions asked are presented in the smartwatch_market.pdf
